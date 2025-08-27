@@ -7,7 +7,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/jhlucc/ForeSight)
 ![License](https://img.shields.io/github/license/jhlucc/ForeSight)
  
----
+--- 
 
 ## 📖 项目简介 | Overview
 
