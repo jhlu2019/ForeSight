@@ -1,4 +1,4 @@
-# ForeSight
+# ForeSight 
 
 > **ARMA • GHTBLM • STM • Informer** 等时间序列模型实现与对比
 > *A curated collection of classic & modern time‑series forecasting models.*
