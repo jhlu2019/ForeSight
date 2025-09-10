@@ -7,8 +7,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/jhlucc/ForeSight)
 ![License](https://img.shields.io/github/license/jhlucc/ForeSight)
  
---- 
-
+---  
 ## 📖 项目简介 | Overview
 
 ForeSight 旨在把常见 **统计学方法**、**机器学习模型** 和 **深度学习 Transformer 系列** 的时间序列预测实现集中于一个仓库，便于快速上手、横向对比与二次开发。每类模型都提供：
