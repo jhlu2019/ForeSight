@@ -16,7 +16,7 @@ ForeSight 旨在把常见 **统计学方法**、**机器学习模型** 和 **深
 2. **Jupyter Notebook 演示**  
 3. **可复现实验脚本**  
 4. **数据与指标可视化**
-  
+   
 --- 
 
 ## 🗂️ 目录结构 | Repository Structure
@@ -39,9 +39,9 @@ ForeSight 旨在把常见 **统计学方法**、**机器学习模型** 和 **深
 git clone https://github.com/jhlucc/ForeSight.git
 cd ForeSight
 
-# 2. 创建 Python 环境（>=3.8）
+# 2. 创建 Python 环境 
 python -m venv .venv
-source .venv/bin/activate      # Windows: .venv\Scripts\activate
+source .venv/bin/activate     
 
 # 3. 安装依赖
 pip install -r requirements.txt
